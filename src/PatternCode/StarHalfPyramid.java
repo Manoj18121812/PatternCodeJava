@@ -1,6 +1,6 @@
 package PatternCode;
 
-public class StarTriangle {
+public class StarHalfPyramid {
 
     public static void main(String[] args) {
 

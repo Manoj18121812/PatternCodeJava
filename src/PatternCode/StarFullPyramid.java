@@ -1,6 +1,6 @@
 package PatternCode;
 
-public class StartTriangleFull {
+public class StarFullPyramid {
 
     public static void main(String[] args){
 
