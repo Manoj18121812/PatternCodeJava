@@ -11,6 +11,11 @@ public class StartTriangleFull {
             System.out.println();
         }
 
-        for(int l=0;k)
+        for(int k=4;k>=1;k--){
+            for(int l=1;l<=k;l++){
+                System.out.print("*");
+            }
+            System.out.println();
+        }
     }
 }
