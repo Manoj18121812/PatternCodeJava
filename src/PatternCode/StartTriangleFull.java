@@ -10,5 +10,7 @@ public class StartTriangleFull {
             }
             System.out.println();
         }
+
+        for(int l=0;k)
     }
 }
